@@ -1,6 +1,7 @@
 public class Problem4 {
     /**
      * ------------
+     * [20 pts]
      * Given an array of words, return the array after trimming each word.
      * For the i-th word, the trimming rules are:
      *   * Rule 1: If the length of the word is smaller than or equal to i, or the word is "lololol", then you don't have to trim it.
