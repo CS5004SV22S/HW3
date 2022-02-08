@@ -1,4 +1,5 @@
 /*
+* Problem 3[20 pts]
 * Write a program that finds the transpose of a matrix,
 * read from a text file (Problem3.txt)
 * The first line in the file will be the dimensions.
